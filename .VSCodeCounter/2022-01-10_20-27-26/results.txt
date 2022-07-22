@@ -1,0 +1,66 @@
+Date : 2022-01-10 20:27:26
+Directory : d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src
+Total : 31 files,  10571 codes, 319 comments, 445 blanks, all 11335 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Vue        |         14 |      5,093 |        246 |        172 |      5,511 |
+| JavaScript |         11 |      3,517 |         53 |        116 |      3,686 |
+| CSS        |          2 |      1,106 |         19 |        157 |      1,282 |
+| XML        |          4 |        855 |          1 |          0 |        856 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                        | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                           |         31 |     10,571 |        319 |        445 |     11,335 |
+| api                                                                                                         |          6 |        173 |         21 |         16 |        210 |
+| assets                                                                                                      |          4 |        855 |          1 |          0 |        856 |
+| components                                                                                                  |         13 |      5,081 |        246 |        168 |      5,495 |
+| components\agreement                                                                                        |          1 |         45 |          0 |          6 |         51 |
+| components\views                                                                                            |          5 |        931 |         61 |         34 |      1,026 |
+| css                                                                                                         |          2 |      1,106 |         19 |        157 |      1,282 |
+| router                                                                                                      |          1 |         96 |         24 |          9 |        129 |
+| utils                                                                                                       |          3 |      3,198 |          5 |         85 |      3,288 |
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                    | language   | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\App.vue                            | Vue        |         12 |          0 |          4 |         16 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\answer.js                      | JavaScript |         22 |          3 |          2 |         27 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\haeder.js                      | JavaScript |         11 |          1 |          1 |         13 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\home.js                        | JavaScript |         36 |          5 |          3 |         44 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\login.js                       | JavaScript |         24 |          3 |          3 |         30 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\questionnaire.js               | JavaScript |         70 |          8 |          4 |         82 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\api\statistics.js                  | JavaScript |         10 |          1 |          3 |         14 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\assets\404.svg                     | XML        |        222 |          0 |          0 |        222 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\assets\home_background.svg         | XML        |        348 |          1 |          0 |        349 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\assets\loginbackground.svg         | XML        |        284 |          0 |          0 |        284 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\assets\select.svg                  | XML        |          1 |          0 |          0 |          1 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\Admin.vue               | Vue        |        239 |         15 |          8 |        262 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\CheckQues.vue           | Vue        |      1,517 |         54 |         35 |      1,606 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\DataStatistics.vue      | Vue        |        313 |          0 |         20 |        333 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\Header.vue              | Vue        |        244 |         10 |          6 |        260 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\QuestionNaire.vue       | Vue        |      1,422 |         51 |         34 |      1,507 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\UserManagement.vue      | Vue        |        120 |          2 |         13 |        135 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\agreement\Agreement.vue | Vue        |         45 |          0 |          6 |         51 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\slider-verify-code.vue  | Vue        |        250 |         53 |         12 |        315 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\views\404.vue           | Vue        |         19 |          0 |          3 |         22 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\views\Home.vue          | Vue        |        146 |         15 |          5 |        166 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\views\Login.vue         | Vue        |        237 |         20 |          6 |        263 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\views\Register.vue      | Vue        |        241 |          9 |         14 |        264 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\components\views\User.vue          | Vue        |        288 |         17 |          6 |        311 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\css\index.css                      | CSS        |        337 |         14 |          2 |        353 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\css\survey.min.css                 | CSS        |        769 |          5 |        155 |        929 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\main.js                            | JavaScript |         50 |          3 |          6 |         59 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\router\index.js                    | JavaScript |         96 |         24 |          9 |        129 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\utils\api.js                       | JavaScript |         18 |          1 |          3 |         22 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\utils\jquery.min.js                | JavaScript |      3,156 |          0 |         77 |      3,233 |
+| d:\svnSystem\trunk\02Engineering\04Implementation\BCRA_System\survey\src\utils\request.js                   | JavaScript |         24 |          4 |          5 |         33 |
+| Total                                                                                                       |            |     10,571 |        319 |        445 |     11,335 |
++-------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
